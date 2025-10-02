@@ -1,7 +1,7 @@
 # PROYECTO-CALCULADORA-ESPIA
 Esta calculadora es un troyano de persistencia (DogoService). Al ejecutarse, establece una Reverse Shell con tu servidor (LHOST) e intercepta comandos.  Capacidades: Persistencia garantizada (Foreground Service) y evasión de Play Protect (usa APIs nativas) Puede volcar SMS y Contactos, obtener GPS exacto (GET_GPS) y controlar la grabación de audio
 
-
+![image_alt](https://github.com/DogoTalei/PROYECTO-CALCULADORA-ESPIA/blob/737645325c8ab4d9f3827a69d4af79ff3a05f683/Gemini_Generated_Image_knicxvknicxvknic.png)
 
 Proyecto DogoService: Auditoría de Seguridad Móvil (Reverse Shell Persistente) 🇪🇹
 ¡ADVERTENCIA: Este proyecto ha sido creado EXCLUSIVAMENTE con fines Éticos y Educativos, enfocado en la investigación de seguridad ofensiva (Red Teaming) y la defensa de sistemas Android.
